@@ -2,4 +2,6 @@ Hello
 This is created for the GIT related information and query 
 
 # clone the git repository run the command 
+git clone <Repository URl>
 git clone https://github.com/Smalljamgoan/Basic-Knowledge.git
+

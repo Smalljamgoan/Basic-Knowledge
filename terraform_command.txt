@@ -1,0 +1,9 @@
+## This document will show the terraform command used for the create or deploy infrastructre 
+##code
+1. "Import":- terraform import :- used to import existing resources 
+2. init :- initialize a working direcrory 
+3. output :- User to extract the value of an output variable 
+plan :- Used to create an execution plan
+providers :- Used to print information about providers 
+push :- used to upload your configuration 
+refresh := used to update 
